@@ -27,6 +27,8 @@ class GameViewController: UIViewController {
             scene.scaleMode = .aspectFill
             
             skView.presentScene(scene)
+            
+            print("takasi")
         }
     }
 
